@@ -1,4 +1,4 @@
 Nombre: Roberto
 Curso: Python
 Ciudad: Valdivia
-Zodiacal:
+Zodiacal: Aries
